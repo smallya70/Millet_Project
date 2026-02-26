@@ -1,0 +1,3 @@
+0 Little_Millet
+1 Bajra_Millet
+2 Contaminated_Millet
